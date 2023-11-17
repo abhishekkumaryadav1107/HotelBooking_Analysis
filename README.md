@@ -1,4 +1,4 @@
-# HotelBooking_Analysis (CAPSTONE)
+# HotelBooking_Analysis 
 To analyze the hotel booking patterns, guest preferences, and factors influencing cancellations using SQL and Excel, and to create a Power BI dashboard, you can follow these steps:
 
 Data Exploration and Cleaning:
